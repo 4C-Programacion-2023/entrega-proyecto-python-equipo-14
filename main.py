@@ -1,3 +1,5 @@
+# Aca esta el video del que vi la api del googletrans : https://youtu.be/hwANaS9MBCk
+
 import tkinter
 
 from googletrans import Translator
